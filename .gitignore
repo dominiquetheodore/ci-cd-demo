@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# macOS hidden files
+.DS_Store
